@@ -9,8 +9,8 @@ public class Exercise_1_7_ContainsCount {
     /**
      * Checks if value x is contained in arr[0..endIndex]
      *
-     * @param x is a number for the search.
-     * @param arr is an array in which the method is searching.
+     * @param x        is a number for the search.
+     * @param arr      is an array in which the method is searching.
      * @param endIndex is an end index of the array, until which the search is executed.
      * @return is a number n consist in the array until index endIndex.
      */
@@ -23,7 +23,7 @@ public class Exercise_1_7_ContainsCount {
     /**
      * Determines how often character ch occurs in array arr.
      *
-     * @param ch is a character for the search.
+     * @param ch  is a character for the search.
      * @param arr arr is an array in which the method is searching.
      * @return how many times a  a character ch consist in the array arr.
      */
