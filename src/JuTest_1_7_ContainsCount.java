@@ -17,9 +17,9 @@ public class JuTest_1_7_ContainsCount {
 
 		assertEquals(true, Exercise_1_7_ContainsCount.contains(3.0, a1, a1.length-1));
 		assertEquals(false, Exercise_1_7_ContainsCount.contains(4.0, a1, a1.length-1));
-		
 	}
-		
+
+
 	@Test
 	public void testContains2() {
 		
